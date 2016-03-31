@@ -1,4 +1,4 @@
-# The-Tile-Game
+# The Tile Game
 A puzzle game for IOS where the user must match all of the tiles on screen. Currently on the IOS app store. Created by Adeola Uthman.
 
 # How To Play
