@@ -1,0 +1,226 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HowToPlay"
+provides-nominal:
+- "C13The_Tile_Game9HowToPlay"
+provides-member:
+- ["C13The_Tile_Game9HowToPlay", ""]
+provides-dynamic-lookup:
+- "defaults"
+- "prefersStatusBarHidden"
+- "goBackSwipe"
+- "viewDidLoad"
+- "goBack"
+depends-top-level:
+- "UISwipeGestureRecognizer"
+- "NSUserDefaults"
+- "HowToPlay"
+- !private "BooleanLiteralType"
+- "Bool"
+- "UIViewController"
+depends-member:
+- ["PSs9AnyObject", "NSUserDefaults"]
+- ["PSs9AnyObject", "defaults"]
+- !private ["PSs9AnyObject", "dismissViewControllerAnimated"]
+- ["PSs9AnyObject", "goBack"]
+- ["PSs9AnyObject", "goBackSwipe"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "prefersStatusBarHidden"]
+- ["PSs9AnyObject", "standardUserDefaults"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- ["PSs9AnyObject", ""]
+- ["PSs11CVarArgType", "NSUserDefaults"]
+- ["PSs11CVarArgType", "defaults"]
+- !private ["PSs11CVarArgType", "dismissViewControllerAnimated"]
+- ["PSs11CVarArgType", "goBack"]
+- ["PSs11CVarArgType", "goBackSwipe"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "prefersStatusBarHidden"]
+- ["PSs11CVarArgType", "standardUserDefaults"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- ["PSs11CVarArgType", ""]
+- ["PSs23CustomStringConvertible", "NSUserDefaults"]
+- ["PSs23CustomStringConvertible", "defaults"]
+- !private ["PSs23CustomStringConvertible", "dismissViewControllerAnimated"]
+- ["PSs23CustomStringConvertible", "goBack"]
+- ["PSs23CustomStringConvertible", "goBackSwipe"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "prefersStatusBarHidden"]
+- ["PSs23CustomStringConvertible", "standardUserDefaults"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "NSUserDefaults"]
+- ["PSs9Equatable", "defaults"]
+- !private ["PSs9Equatable", "dismissViewControllerAnimated"]
+- ["PSs9Equatable", "goBack"]
+- ["PSs9Equatable", "goBackSwipe"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "prefersStatusBarHidden"]
+- ["PSs9Equatable", "standardUserDefaults"]
+- ["PSs9Equatable", "viewDidLoad"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "NSUserDefaults"]
+- ["PSs8Hashable", "defaults"]
+- !private ["PSs8Hashable", "dismissViewControllerAnimated"]
+- ["PSs8Hashable", "goBack"]
+- ["PSs8Hashable", "goBackSwipe"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "prefersStatusBarHidden"]
+- ["PSs8Hashable", "standardUserDefaults"]
+- ["PSs8Hashable", "viewDidLoad"]
+- ["PSs8Hashable", ""]
+- ["C13The_Tile_Game9HowToPlay", "Bool"]
+- ["C13The_Tile_Game9HowToPlay", "NSUserDefaults"]
+- ["C13The_Tile_Game9HowToPlay", "UISwipeGestureRecognizer"]
+- ["C13The_Tile_Game9HowToPlay", "defaults"]
+- ["C13The_Tile_Game9HowToPlay", "deinit"]
+- !private ["C13The_Tile_Game9HowToPlay", "dismissViewControllerAnimated"]
+- ["C13The_Tile_Game9HowToPlay", "goBack"]
+- ["C13The_Tile_Game9HowToPlay", "goBackSwipe"]
+- ["C13The_Tile_Game9HowToPlay", "init"]
+- ["C13The_Tile_Game9HowToPlay", "prefersStatusBarHidden"]
+- ["C13The_Tile_Game9HowToPlay", "viewDidLoad"]
+- ["PSo8NSCoding", "NSUserDefaults"]
+- ["PSo8NSCoding", "defaults"]
+- !private ["PSo8NSCoding", "dismissViewControllerAnimated"]
+- ["PSo8NSCoding", "goBack"]
+- ["PSo8NSCoding", "goBackSwipe"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "prefersStatusBarHidden"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo26NSExtensionRequestHandling", "NSUserDefaults"]
+- ["PSo26NSExtensionRequestHandling", "defaults"]
+- !private ["PSo26NSExtensionRequestHandling", "dismissViewControllerAnimated"]
+- ["PSo26NSExtensionRequestHandling", "goBack"]
+- ["PSo26NSExtensionRequestHandling", "goBackSwipe"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "prefersStatusBarHidden"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "NSUserDefaults"]
+- ["CSo8NSObject", "UISwipeGestureRecognizer"]
+- ["CSo8NSObject", "defaults"]
+- !private ["CSo8NSObject", "dismissViewControllerAnimated"]
+- ["CSo8NSObject", "goBack"]
+- ["CSo8NSObject", "goBackSwipe"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "prefersStatusBarHidden"]
+- ["CSo8NSObject", "standardUserDefaults"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "NSUserDefaults"]
+- ["PSo16NSObjectProtocol", "defaults"]
+- !private ["PSo16NSObjectProtocol", "dismissViewControllerAnimated"]
+- ["PSo16NSObjectProtocol", "goBack"]
+- ["PSo16NSObjectProtocol", "goBackSwipe"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "prefersStatusBarHidden"]
+- ["PSo16NSObjectProtocol", "standardUserDefaults"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- ["CSo14NSUserDefaults", "standardUserDefaults"]
+- ["PSo21UIAppearanceContainer", "NSUserDefaults"]
+- ["PSo21UIAppearanceContainer", "defaults"]
+- !private ["PSo21UIAppearanceContainer", "dismissViewControllerAnimated"]
+- ["PSo21UIAppearanceContainer", "goBack"]
+- ["PSo21UIAppearanceContainer", "goBackSwipe"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "prefersStatusBarHidden"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo18UIContentContainer", "NSUserDefaults"]
+- ["PSo18UIContentContainer", "defaults"]
+- !private ["PSo18UIContentContainer", "dismissViewControllerAnimated"]
+- ["PSo18UIContentContainer", "goBack"]
+- ["PSo18UIContentContainer", "goBackSwipe"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "prefersStatusBarHidden"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- ["PSo18UIFocusEnvironment", "NSUserDefaults"]
+- ["PSo18UIFocusEnvironment", "defaults"]
+- !private ["PSo18UIFocusEnvironment", "dismissViewControllerAnimated"]
+- ["PSo18UIFocusEnvironment", "goBack"]
+- ["PSo18UIFocusEnvironment", "goBackSwipe"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "prefersStatusBarHidden"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "Bool"]
+- ["CSo11UIResponder", "NSUserDefaults"]
+- ["CSo11UIResponder", "UISwipeGestureRecognizer"]
+- ["CSo11UIResponder", "defaults"]
+- !private ["CSo11UIResponder", "dismissViewControllerAnimated"]
+- ["CSo11UIResponder", "goBack"]
+- ["CSo11UIResponder", "goBackSwipe"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "prefersStatusBarHidden"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo16UIStateRestoring", "NSUserDefaults"]
+- ["PSo16UIStateRestoring", "defaults"]
+- !private ["PSo16UIStateRestoring", "dismissViewControllerAnimated"]
+- ["PSo16UIStateRestoring", "goBack"]
+- ["PSo16UIStateRestoring", "goBackSwipe"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "prefersStatusBarHidden"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["PSo18UITraitEnvironment", "NSUserDefaults"]
+- ["PSo18UITraitEnvironment", "defaults"]
+- !private ["PSo18UITraitEnvironment", "dismissViewControllerAnimated"]
+- ["PSo18UITraitEnvironment", "goBack"]
+- ["PSo18UITraitEnvironment", "goBackSwipe"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "prefersStatusBarHidden"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo16UIViewController", "Bool"]
+- ["CSo16UIViewController", "NSUserDefaults"]
+- ["CSo16UIViewController", "UISwipeGestureRecognizer"]
+- ["CSo16UIViewController", "defaults"]
+- !private ["CSo16UIViewController", "dismissViewControllerAnimated"]
+- ["CSo16UIViewController", "goBack"]
+- ["CSo16UIViewController", "goBackSwipe"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "prefersStatusBarHidden"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "C13The_Tile_Game9HowToPlay"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "CSo14NSUserDefaults"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Users/adeouthman/Library/Developer/Xcode/DerivedData/TimeCounter-aqguqvacssfjvmgthlpxzdeenrvs/Build/Products/Debug-iphoneos/TimeCounter.framework/Modules/TimeCounter.swiftmodule/arm64.swiftmodule"
+- "/Users/adeouthman/Library/Developer/Xcode/DerivedData/TimeCounter-aqguqvacssfjvmgthlpxzdeenrvs/Build/Products/Debug-iphoneos/TimeCounter.framework/Headers/TimeCounter-Swift.h"
+- "/Users/adeouthman/Library/Developer/Xcode/DerivedData/TimeCounter-aqguqvacssfjvmgthlpxzdeenrvs/Build/Products/Debug-iphoneos/TimeCounter.framework/Headers/TimeCounter.h"
+- "/Users/adeouthman/Library/Developer/Xcode/DerivedData/TimeCounter-aqguqvacssfjvmgthlpxzdeenrvs/Build/Products/Debug-iphoneos/TimeCounter.framework/Modules/module.modulemap"
+- "/Users/adeouthman/Library/Developer/Xcode/DerivedData/TVTile-bilguprnwrgrrreonlmnttsgachc/Build/Products/Debug-iphoneos/TVTile.framework/Modules/TVTile.swiftmodule/arm64.swiftmodule"
+- "/Users/adeouthman/Library/Developer/Xcode/DerivedData/TVTile-bilguprnwrgrrreonlmnttsgachc/Build/Products/Debug-iphoneos/TVTile.framework/Headers/TVTile-Swift.h"
+- "/Users/adeouthman/Library/Developer/Xcode/DerivedData/TVTile-bilguprnwrgrrreonlmnttsgachc/Build/Products/Debug-iphoneos/TVTile.framework/Headers/TVTile.h"
+- "/Users/adeouthman/Library/Developer/Xcode/DerivedData/TVTile-bilguprnwrgrrreonlmnttsgachc/Build/Products/Debug-iphoneos/TVTile.framework/Modules/module.modulemap"
+interface-hash: "6cc439d3c425e4eece9e332cb8e126ef"

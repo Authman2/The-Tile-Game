@@ -1,0 +1,362 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Settings"
+provides-nominal:
+- "C13The_Tile_Game8Settings"
+provides-member:
+- ["C13The_Tile_Game8Settings", ""]
+provides-dynamic-lookup:
+- "backButton"
+- "goToBestTimes"
+- "rateApp"
+- "prefersStatusBarHidden"
+- "goBack"
+- "clickedHTP"
+- "goBackSwipe"
+depends-top-level:
+- "Bool"
+- "UIViewController"
+- !private "BooleanLiteralType"
+- !private "UIStoryboard"
+- !private "NSURL"
+- !private "UIApplication"
+- "UISwipeGestureRecognizer"
+- "Settings"
+- "UIButton"
+- !private "BestTimes"
+- !private "StringLiteralType"
+- !private "HowToPlay"
+depends-member:
+- !private ["PSs9AnyObject", "NSURL"]
+- !private ["PSs9AnyObject", "UIApplication"]
+- !private ["PSs9AnyObject", "UIStoryboard"]
+- ["PSs9AnyObject", "backButton"]
+- ["PSs9AnyObject", "clickedHTP"]
+- !private ["PSs9AnyObject", "dismissViewControllerAnimated"]
+- ["PSs9AnyObject", "goBack"]
+- ["PSs9AnyObject", "goBackSwipe"]
+- ["PSs9AnyObject", "goToBestTimes"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "instantiateViewControllerWithIdentifier"]
+- !private ["PSs9AnyObject", "openURL"]
+- ["PSs9AnyObject", "prefersStatusBarHidden"]
+- !private ["PSs9AnyObject", "presentViewController"]
+- ["PSs9AnyObject", "rateApp"]
+- !private ["PSs9AnyObject", "sharedApplication"]
+- ["PSs9AnyObject", ""]
+- !private ["PSs11CVarArgType", "NSURL"]
+- !private ["PSs11CVarArgType", "UIApplication"]
+- !private ["PSs11CVarArgType", "UIStoryboard"]
+- ["PSs11CVarArgType", "backButton"]
+- ["PSs11CVarArgType", "clickedHTP"]
+- !private ["PSs11CVarArgType", "dismissViewControllerAnimated"]
+- ["PSs11CVarArgType", "goBack"]
+- ["PSs11CVarArgType", "goBackSwipe"]
+- ["PSs11CVarArgType", "goToBestTimes"]
+- ["PSs11CVarArgType", "init"]
+- !private ["PSs11CVarArgType", "instantiateViewControllerWithIdentifier"]
+- !private ["PSs11CVarArgType", "openURL"]
+- ["PSs11CVarArgType", "prefersStatusBarHidden"]
+- !private ["PSs11CVarArgType", "presentViewController"]
+- ["PSs11CVarArgType", "rateApp"]
+- !private ["PSs11CVarArgType", "sharedApplication"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs23CustomStringConvertible", "NSURL"]
+- !private ["PSs23CustomStringConvertible", "UIApplication"]
+- !private ["PSs23CustomStringConvertible", "UIStoryboard"]
+- ["PSs23CustomStringConvertible", "backButton"]
+- ["PSs23CustomStringConvertible", "clickedHTP"]
+- !private ["PSs23CustomStringConvertible", "dismissViewControllerAnimated"]
+- ["PSs23CustomStringConvertible", "goBack"]
+- ["PSs23CustomStringConvertible", "goBackSwipe"]
+- ["PSs23CustomStringConvertible", "goToBestTimes"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "instantiateViewControllerWithIdentifier"]
+- !private ["PSs23CustomStringConvertible", "openURL"]
+- ["PSs23CustomStringConvertible", "prefersStatusBarHidden"]
+- !private ["PSs23CustomStringConvertible", "presentViewController"]
+- ["PSs23CustomStringConvertible", "rateApp"]
+- !private ["PSs23CustomStringConvertible", "sharedApplication"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs9Equatable", "NSURL"]
+- !private ["PSs9Equatable", "UIApplication"]
+- !private ["PSs9Equatable", "UIStoryboard"]
+- ["PSs9Equatable", "backButton"]
+- ["PSs9Equatable", "clickedHTP"]
+- !private ["PSs9Equatable", "dismissViewControllerAnimated"]
+- ["PSs9Equatable", "goBack"]
+- ["PSs9Equatable", "goBackSwipe"]
+- ["PSs9Equatable", "goToBestTimes"]
+- ["PSs9Equatable", "init"]
+- !private ["PSs9Equatable", "instantiateViewControllerWithIdentifier"]
+- !private ["PSs9Equatable", "openURL"]
+- ["PSs9Equatable", "prefersStatusBarHidden"]
+- !private ["PSs9Equatable", "presentViewController"]
+- ["PSs9Equatable", "rateApp"]
+- !private ["PSs9Equatable", "sharedApplication"]
+- ["PSs9Equatable", ""]
+- !private ["PSs8Hashable", "NSURL"]
+- !private ["PSs8Hashable", "UIApplication"]
+- !private ["PSs8Hashable", "UIStoryboard"]
+- ["PSs8Hashable", "backButton"]
+- ["PSs8Hashable", "clickedHTP"]
+- !private ["PSs8Hashable", "dismissViewControllerAnimated"]
+- ["PSs8Hashable", "goBack"]
+- ["PSs8Hashable", "goBackSwipe"]
+- ["PSs8Hashable", "goToBestTimes"]
+- ["PSs8Hashable", "init"]
+- !private ["PSs8Hashable", "instantiateViewControllerWithIdentifier"]
+- !private ["PSs8Hashable", "openURL"]
+- ["PSs8Hashable", "prefersStatusBarHidden"]
+- !private ["PSs8Hashable", "presentViewController"]
+- ["PSs8Hashable", "rateApp"]
+- !private ["PSs8Hashable", "sharedApplication"]
+- ["PSs8Hashable", ""]
+- !private ["PSo8NSCoding", "NSURL"]
+- !private ["PSo8NSCoding", "UIApplication"]
+- !private ["PSo8NSCoding", "UIStoryboard"]
+- ["PSo8NSCoding", "backButton"]
+- ["PSo8NSCoding", "clickedHTP"]
+- !private ["PSo8NSCoding", "dismissViewControllerAnimated"]
+- ["PSo8NSCoding", "goBack"]
+- ["PSo8NSCoding", "goBackSwipe"]
+- ["PSo8NSCoding", "goToBestTimes"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "prefersStatusBarHidden"]
+- !private ["PSo8NSCoding", "presentViewController"]
+- ["PSo8NSCoding", "rateApp"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "NSURL"]
+- !private ["PSo26NSExtensionRequestHandling", "UIApplication"]
+- !private ["PSo26NSExtensionRequestHandling", "UIStoryboard"]
+- ["PSo26NSExtensionRequestHandling", "backButton"]
+- ["PSo26NSExtensionRequestHandling", "clickedHTP"]
+- !private ["PSo26NSExtensionRequestHandling", "dismissViewControllerAnimated"]
+- ["PSo26NSExtensionRequestHandling", "goBack"]
+- ["PSo26NSExtensionRequestHandling", "goBackSwipe"]
+- ["PSo26NSExtensionRequestHandling", "goToBestTimes"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "prefersStatusBarHidden"]
+- !private ["PSo26NSExtensionRequestHandling", "presentViewController"]
+- ["PSo26NSExtensionRequestHandling", "rateApp"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["CSo8NSObject", "BestTimes"]
+- ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "HowToPlay"]
+- !private ["CSo8NSObject", "NSURL"]
+- !private ["CSo8NSObject", "UIApplication"]
+- ["CSo8NSObject", "UIButton"]
+- !private ["CSo8NSObject", "UIStoryboard"]
+- ["CSo8NSObject", "UISwipeGestureRecognizer"]
+- ["CSo8NSObject", "backButton"]
+- ["CSo8NSObject", "clickedHTP"]
+- !private ["CSo8NSObject", "dismissViewControllerAnimated"]
+- ["CSo8NSObject", "goBack"]
+- ["CSo8NSObject", "goBackSwipe"]
+- ["CSo8NSObject", "goToBestTimes"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "instantiateViewControllerWithIdentifier"]
+- !private ["CSo8NSObject", "openURL"]
+- ["CSo8NSObject", "prefersStatusBarHidden"]
+- !private ["CSo8NSObject", "presentViewController"]
+- ["CSo8NSObject", "rateApp"]
+- !private ["CSo8NSObject", "sharedApplication"]
+- !private ["PSo16NSObjectProtocol", "NSURL"]
+- !private ["PSo16NSObjectProtocol", "UIApplication"]
+- !private ["PSo16NSObjectProtocol", "UIStoryboard"]
+- ["PSo16NSObjectProtocol", "backButton"]
+- ["PSo16NSObjectProtocol", "clickedHTP"]
+- !private ["PSo16NSObjectProtocol", "dismissViewControllerAnimated"]
+- ["PSo16NSObjectProtocol", "goBack"]
+- ["PSo16NSObjectProtocol", "goBackSwipe"]
+- ["PSo16NSObjectProtocol", "goToBestTimes"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "instantiateViewControllerWithIdentifier"]
+- !private ["PSo16NSObjectProtocol", "openURL"]
+- ["PSo16NSObjectProtocol", "prefersStatusBarHidden"]
+- !private ["PSo16NSObjectProtocol", "presentViewController"]
+- ["PSo16NSObjectProtocol", "rateApp"]
+- !private ["PSo16NSObjectProtocol", "sharedApplication"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo5NSURL", "init"]
+- !private ["C13The_Tile_Game8Settings", "BestTimes"]
+- ["C13The_Tile_Game8Settings", "Bool"]
+- !private ["C13The_Tile_Game8Settings", "HowToPlay"]
+- !private ["C13The_Tile_Game8Settings", "NSURL"]
+- !private ["C13The_Tile_Game8Settings", "UIApplication"]
+- ["C13The_Tile_Game8Settings", "UIButton"]
+- !private ["C13The_Tile_Game8Settings", "UIStoryboard"]
+- ["C13The_Tile_Game8Settings", "UISwipeGestureRecognizer"]
+- ["C13The_Tile_Game8Settings", "backButton"]
+- ["C13The_Tile_Game8Settings", "clickedHTP"]
+- ["C13The_Tile_Game8Settings", "deinit"]
+- !private ["C13The_Tile_Game8Settings", "dismissViewControllerAnimated"]
+- ["C13The_Tile_Game8Settings", "goBack"]
+- ["C13The_Tile_Game8Settings", "goBackSwipe"]
+- ["C13The_Tile_Game8Settings", "goToBestTimes"]
+- ["C13The_Tile_Game8Settings", "init"]
+- ["C13The_Tile_Game8Settings", "prefersStatusBarHidden"]
+- !private ["C13The_Tile_Game8Settings", "presentViewController"]
+- ["C13The_Tile_Game8Settings", "rateApp"]
+- !private ["PSo21UIAppearanceContainer", "NSURL"]
+- !private ["PSo21UIAppearanceContainer", "UIApplication"]
+- !private ["PSo21UIAppearanceContainer", "UIStoryboard"]
+- ["PSo21UIAppearanceContainer", "backButton"]
+- ["PSo21UIAppearanceContainer", "clickedHTP"]
+- !private ["PSo21UIAppearanceContainer", "dismissViewControllerAnimated"]
+- ["PSo21UIAppearanceContainer", "goBack"]
+- ["PSo21UIAppearanceContainer", "goBackSwipe"]
+- ["PSo21UIAppearanceContainer", "goToBestTimes"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "prefersStatusBarHidden"]
+- !private ["PSo21UIAppearanceContainer", "presentViewController"]
+- ["PSo21UIAppearanceContainer", "rateApp"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo13UIApplication", "openURL"]
+- !private ["CSo13UIApplication", "sharedApplication"]
+- !private ["PSo18UIContentContainer", "NSURL"]
+- !private ["PSo18UIContentContainer", "UIApplication"]
+- !private ["PSo18UIContentContainer", "UIStoryboard"]
+- ["PSo18UIContentContainer", "backButton"]
+- ["PSo18UIContentContainer", "clickedHTP"]
+- !private ["PSo18UIContentContainer", "dismissViewControllerAnimated"]
+- ["PSo18UIContentContainer", "goBack"]
+- ["PSo18UIContentContainer", "goBackSwipe"]
+- ["PSo18UIContentContainer", "goToBestTimes"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "prefersStatusBarHidden"]
+- !private ["PSo18UIContentContainer", "presentViewController"]
+- ["PSo18UIContentContainer", "rateApp"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo18UIFocusEnvironment", "NSURL"]
+- !private ["PSo18UIFocusEnvironment", "UIApplication"]
+- !private ["PSo18UIFocusEnvironment", "UIStoryboard"]
+- ["PSo18UIFocusEnvironment", "backButton"]
+- ["PSo18UIFocusEnvironment", "clickedHTP"]
+- !private ["PSo18UIFocusEnvironment", "dismissViewControllerAnimated"]
+- ["PSo18UIFocusEnvironment", "goBack"]
+- ["PSo18UIFocusEnvironment", "goBackSwipe"]
+- ["PSo18UIFocusEnvironment", "goToBestTimes"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "prefersStatusBarHidden"]
+- !private ["PSo18UIFocusEnvironment", "presentViewController"]
+- ["PSo18UIFocusEnvironment", "rateApp"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["CSo11UIResponder", "BestTimes"]
+- ["CSo11UIResponder", "Bool"]
+- !private ["CSo11UIResponder", "HowToPlay"]
+- !private ["CSo11UIResponder", "NSURL"]
+- !private ["CSo11UIResponder", "UIApplication"]
+- ["CSo11UIResponder", "UIButton"]
+- !private ["CSo11UIResponder", "UIStoryboard"]
+- ["CSo11UIResponder", "UISwipeGestureRecognizer"]
+- ["CSo11UIResponder", "backButton"]
+- ["CSo11UIResponder", "clickedHTP"]
+- !private ["CSo11UIResponder", "dismissViewControllerAnimated"]
+- ["CSo11UIResponder", "goBack"]
+- ["CSo11UIResponder", "goBackSwipe"]
+- ["CSo11UIResponder", "goToBestTimes"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "openURL"]
+- ["CSo11UIResponder", "prefersStatusBarHidden"]
+- !private ["CSo11UIResponder", "presentViewController"]
+- ["CSo11UIResponder", "rateApp"]
+- !private ["CSo11UIResponder", "sharedApplication"]
+- !private ["PSo16UIStateRestoring", "NSURL"]
+- !private ["PSo16UIStateRestoring", "UIApplication"]
+- !private ["PSo16UIStateRestoring", "UIStoryboard"]
+- ["PSo16UIStateRestoring", "backButton"]
+- ["PSo16UIStateRestoring", "clickedHTP"]
+- !private ["PSo16UIStateRestoring", "dismissViewControllerAnimated"]
+- ["PSo16UIStateRestoring", "goBack"]
+- ["PSo16UIStateRestoring", "goBackSwipe"]
+- ["PSo16UIStateRestoring", "goToBestTimes"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "prefersStatusBarHidden"]
+- !private ["PSo16UIStateRestoring", "presentViewController"]
+- ["PSo16UIStateRestoring", "rateApp"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["CSo12UIStoryboard", "init"]
+- !private ["CSo12UIStoryboard", "instantiateViewControllerWithIdentifier"]
+- !private ["PSo18UITraitEnvironment", "NSURL"]
+- !private ["PSo18UITraitEnvironment", "UIApplication"]
+- !private ["PSo18UITraitEnvironment", "UIStoryboard"]
+- ["PSo18UITraitEnvironment", "backButton"]
+- ["PSo18UITraitEnvironment", "clickedHTP"]
+- !private ["PSo18UITraitEnvironment", "dismissViewControllerAnimated"]
+- ["PSo18UITraitEnvironment", "goBack"]
+- ["PSo18UITraitEnvironment", "goBackSwipe"]
+- ["PSo18UITraitEnvironment", "goToBestTimes"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "prefersStatusBarHidden"]
+- !private ["PSo18UITraitEnvironment", "presentViewController"]
+- ["PSo18UITraitEnvironment", "rateApp"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo16UIViewController", "BestTimes"]
+- ["CSo16UIViewController", "Bool"]
+- !private ["CSo16UIViewController", "HowToPlay"]
+- !private ["CSo16UIViewController", "NSURL"]
+- !private ["CSo16UIViewController", "UIApplication"]
+- ["CSo16UIViewController", "UIButton"]
+- !private ["CSo16UIViewController", "UIStoryboard"]
+- ["CSo16UIViewController", "UISwipeGestureRecognizer"]
+- ["CSo16UIViewController", "backButton"]
+- ["CSo16UIViewController", "clickedHTP"]
+- !private ["CSo16UIViewController", "deinit"]
+- !private ["CSo16UIViewController", "dismissViewControllerAnimated"]
+- ["CSo16UIViewController", "goBack"]
+- ["CSo16UIViewController", "goBackSwipe"]
+- ["CSo16UIViewController", "goToBestTimes"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "prefersStatusBarHidden"]
+- !private ["CSo16UIViewController", "presentViewController"]
+- ["CSo16UIViewController", "rateApp"]
+- ["CSo16UIViewController", ""]
+- !private ["PSs32_FileReferenceLiteralConvertible", "init"]
+- !private ["PSs12_Reflectable", "init"]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo5NSURL"
+- "C13The_Tile_Game8Settings"
+- "PSo21UIAppearanceContainer"
+- !private "CSo13UIApplication"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- !private "CSo12UIStoryboard"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+- !private "PSs32_FileReferenceLiteralConvertible"
+- !private "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Users/adeouthman/Library/Developer/Xcode/DerivedData/TimeCounter-aqguqvacssfjvmgthlpxzdeenrvs/Build/Products/Debug-iphoneos/TimeCounter.framework/Modules/TimeCounter.swiftmodule/arm.swiftmodule"
+- "/Users/adeouthman/Library/Developer/Xcode/DerivedData/TimeCounter-aqguqvacssfjvmgthlpxzdeenrvs/Build/Products/Debug-iphoneos/TimeCounter.framework/Headers/TimeCounter-Swift.h"
+- "/Users/adeouthman/Library/Developer/Xcode/DerivedData/TimeCounter-aqguqvacssfjvmgthlpxzdeenrvs/Build/Products/Debug-iphoneos/TimeCounter.framework/Headers/TimeCounter.h"
+- "/Users/adeouthman/Library/Developer/Xcode/DerivedData/TimeCounter-aqguqvacssfjvmgthlpxzdeenrvs/Build/Products/Debug-iphoneos/TimeCounter.framework/Modules/module.modulemap"
+- "/Users/adeouthman/Library/Developer/Xcode/DerivedData/TVTile-bilguprnwrgrrreonlmnttsgachc/Build/Products/Debug-iphoneos/TVTile.framework/Modules/TVTile.swiftmodule/arm.swiftmodule"
+- "/Users/adeouthman/Library/Developer/Xcode/DerivedData/TVTile-bilguprnwrgrrreonlmnttsgachc/Build/Products/Debug-iphoneos/TVTile.framework/Headers/TVTile-Swift.h"
+- "/Users/adeouthman/Library/Developer/Xcode/DerivedData/TVTile-bilguprnwrgrrreonlmnttsgachc/Build/Products/Debug-iphoneos/TVTile.framework/Headers/TVTile.h"
+- "/Users/adeouthman/Library/Developer/Xcode/DerivedData/TVTile-bilguprnwrgrrreonlmnttsgachc/Build/Products/Debug-iphoneos/TVTile.framework/Modules/module.modulemap"
+interface-hash: "6689ff413bad71be60120a39fbbae31c"
