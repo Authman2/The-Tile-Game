@@ -1,5 +1,0 @@
-version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
-options: "ef6ed323e1fde2b35e3a74206be64502"
-build_time: [512706514, 840751000]
-inputs:
-  "/Users/adeouthman/Documents/AdeolasCodingStuff/Xcode/TheTileGameInXcode/TheTileGameInXcodeTests/TheTileGameInXcodeTests.swift": [490261356, 0]
