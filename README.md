@@ -7,7 +7,7 @@ A puzzle game for IOS where the user must match all of the tiles on screen. Curr
 - Artist: Adeola Uthman
 
 # How To Play
-When the game starts there will be fifteen tiles on the screen. Each tile will be randomly set to a certain shape and color. The player must tap each of the tiles, which will change its shape and color. The game is won when all of the tiles match. However, what makes it hard is that every time you tap one tile, the shape and color of all the adjacent tiles will also change.
+When the game starts there will be fifteen tiles on the screen. Each tile will be randomly set to a certain shape and color. The player must tap each of the tiles, which will change its shape and color. The game is won when all of the tiles match. However, every time you tap one tile, the shape and color of all of the adjacent tiles will also change.
 
 #
 Every time you tap a tile it will go to the next image. The order of the tiles is as follows:
