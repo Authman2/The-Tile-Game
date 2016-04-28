@@ -2,7 +2,7 @@
 A puzzle game for IOS where the user must match all of the tiles on screen. Currently on the IOS app store. Created by Adeola Uthman.
 
 - Year: 2014
-- Language: Swift
+- Languages: Swift, Originally written in Objective-C
 - Programmer: Adeola Uthman
 - Artist: Adeola Uthman
 
