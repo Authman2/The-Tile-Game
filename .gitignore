@@ -1,2 +1,14 @@
 
 *.pcm
+
+The Tile Game/TGTile.framework/_CodeSignature/CodeResources
+
+*.h
+
+*.pbxproj
+
+*.xcscheme
+
+*.plist
+
+The Tile Game/TimeCounter.framework/_CodeSignature/CodeResources

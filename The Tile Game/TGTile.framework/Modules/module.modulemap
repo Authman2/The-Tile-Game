@@ -1,0 +1,10 @@
+framework module TGTile {
+  umbrella header "TGTile.h"
+
+  export *
+  module * { export * }
+}
+
+module TGTile.Swift {
+    header "TGTile-Swift.h"
+}

@@ -59,7 +59,7 @@ public class Game: UIViewController {
         
         self.randomizeTiles()
         
-        updateTimer = NSTimer.scheduledTimerWithTimeInterval(0.30, target: self, selector: Selector("update"), userInfo: nil, repeats: true)
+        updateTimer = NSTimer.scheduledTimerWithTimeInterval(0.30, target: self, selector: #selector(Game.update), userInfo: nil, repeats: true)
         
         
         if typeOfGame.isEqualToString("classic") {
@@ -468,7 +468,7 @@ public class Game: UIViewController {
             s14.userInteractionEnabled = false
             s15.userInteractionEnabled = false
             
-            _ = NSTimer.scheduledTimerWithTimeInterval(1, target: self, selector: Selector("goToWinnerScene"), userInfo: nil, repeats: false)
+            _ = NSTimer.scheduledTimerWithTimeInterval(1, target: self, selector: #selector(Game.goToWinnerScene), userInfo: nil, repeats: false)
             
             if typeOfGame.isEqualToString("classic") {
                 tUp.stopCountingUp()
